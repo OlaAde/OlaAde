@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Adeogo Emmanuel Oladipo.<br>🥇 I'm a Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Security Specialist (CKS).<br>👀 I’m interested in DevOps, CloudOps and building clever solutions to human problems.<br>🌱 I’m currently learning Event Driven Architechtures.<br>💞️ I’m looking to collaborate on interesting projects focused on solving human problems.<br>📫 How to reach me adeogo.oladipo@gmail.com.<br><br>
+👋 Hi, I’m Adeogo Emmanuel Oladipo.<br>🥇 I'm a Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Security Specialist (CKS).<br>👀 I’m interested in DevOps, CloudOps and building clever solutions to human problems.<br>🌱 I’m currently learning Event Driven Architechtures.<br>💞️ I’m looking to collaborate on interesting projects focused on solving human problems.<br>📫 How to reach me adeogo.oladipo@gmail.com.<br>📖 Checkout my medium blog https://adeogooladipo.medium.com<br>
 
 
 ## 🌐 Socials:
